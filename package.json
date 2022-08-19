@@ -1,0 +1,23 @@
+{
+  "name": "repogit",
+  "version": "1.0.0",
+  "description": "Teste Git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandroFeitoza81/Repo.git"
+  },
+  "author": "Leandro Feitoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leandroFeitoza81/Repo/issues"
+  },
+  "homepage": "https://github.com/leandroFeitoza81/Repo#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
